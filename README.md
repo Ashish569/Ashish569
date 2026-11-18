@@ -1,7 +1,7 @@
  ---                                                                                                                                   
   Hi, I'm Ashish Yadav                                                                                                                  
                                                                                                                                         
-  Backend engineer building fintech infrastructure at BondBloX — a bond exchange platform connecting buyers and sellers across Asia.    
+  Backend engineer building fintech infrastructure  — a bond exchange platform connecting buyers and sellers across Asia.    
                                                                                                                                         
   ---
   What I Work With
