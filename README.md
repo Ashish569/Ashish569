@@ -32,7 +32,7 @@
   ---                                                                                                                                   
   Connect                                                                                                                               
                                                                   
-  LinkedIn → linkedin.com/in/ashishydv/
+  
                                                                                                                                         
   ---
   Currently based in Hyderabad, India                                                                                                   
